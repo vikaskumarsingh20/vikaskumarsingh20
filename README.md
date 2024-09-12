@@ -16,6 +16,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikaskumarsingh20&show_icons=true&locale=en&layout=compact" alt="vikaskumarsingh20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskumarsingh20&" alt="vikaskumarsingh20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskumarsingh20&" alt="vikaskumarsingh20" /></p> 
 
  
