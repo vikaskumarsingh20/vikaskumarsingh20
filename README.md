@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Vikas</h1>
 <h3 align="center">🚀 Currently, I'm working in a Start-Up as a Software Developer Intern 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrajput01&label=Profile%20views&color=0e75b6&style=flat" alt="vikasrajput01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrajput01&label=Profile%20views&color=0e75b6&style=flat" alt="vikasrajput01"  /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
