@@ -8,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikasrajput20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikasrajput20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vikas_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikas_rajput" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vikas_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_rajput" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vikas_rajpoot_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikas_rajpoot_19" height="30" width="40"  /></a>
+<a href="[https://linkedin.com/in/vikasrajput20](https://www.linkedin.com/in/vikaskumarsingh24/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikasrajput20" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vikas_rajput" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikas_rajput" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vikas_rajput" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_rajput" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vikas_rajpoot_19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikas_rajpoot_19" height="30" width="40"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
