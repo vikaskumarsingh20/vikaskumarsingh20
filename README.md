@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=2500&pause=1500&color=9945FF&center=true&vCenter=true&width=600&lines=🌟+Software+Developer+Trainee;🎯+at+a+cutting-edge+Start-Up;💫+Turning+Ideas+into+Reality;🚀+Growing+•+Learning+•+Building" alt="Current Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=2500&pause=1500&color=9945FF&center=true&vCenter=true&width=600&lines=🌟+Software+Developer;🎯+at+a+cutting-edge+Start-Up;💫+Turning+Ideas+into+Reality;🚀+Growing+•+Learning+•+Building" alt="Current Status" />
   
 </div>
 
